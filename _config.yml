@@ -82,4 +82,4 @@ theme: next
 deploy:
   type: git
   repository: https://github.com/JoKer049/JoKer049.github.io.git
-  branch: release
+  branch: master
